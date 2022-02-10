@@ -1,1 +1,6 @@
 test file
+
+PROC SQL ;
+	SELECT *
+	FROM table ;
+QUIT ;
