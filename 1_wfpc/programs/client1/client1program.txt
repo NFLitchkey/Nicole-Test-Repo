@@ -1,5 +1,7 @@
 test file
 
+
+/* this is a very detailed comment */
 PROC SQL ;
 	SELECT *
 	FROM table ;
