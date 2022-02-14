@@ -3,5 +3,8 @@
 PROC SQL ;
 	CREATE TABLE work.t_test AS
 	SELECT *
-	FROM &client_number..&client_number._&medte._analysis ;
+	FROM &client_number..&client_number._&medte._analysis
+	
+	/* this is a detailed comment about why this WHERE clause is here */
+	WHERE &_gross_balance. > 30000 ;
 QUIT ;
