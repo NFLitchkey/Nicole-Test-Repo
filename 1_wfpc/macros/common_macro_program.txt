@@ -1,0 +1,11 @@
+/* this is a common macro program that will be used by most clients */
+
+%MACRO common_macro_program ;
+
+/* SAS MACRO CODE */
+/* SAS MACRO CODE */
+/* SAS MACRO CODE */
+/* SAS MACRO CODE */
+/* SAS MACRO CODE */
+
+%MEND common_macro_program ;
