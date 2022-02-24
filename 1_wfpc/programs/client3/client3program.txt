@@ -1,0 +1,7 @@
+/* sas program for client3 */
+
+
+PROC SQL ;
+ SELECT *
+ FROM table ;
+QUIT ;
