@@ -4,6 +4,8 @@
 
 /* SAS MACRO CODE */
 /* SAS MACRO CODE */
+
+/* the line below has been changed to something better */
 /* SAS MACRO CODE */
 /* SAS MACRO CODE */
 /* SAS MACRO CODE */
